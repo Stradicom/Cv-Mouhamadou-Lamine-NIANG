@@ -1,0 +1,13 @@
+body{ background-color: rgb(255, 6, 6);
+    color: rgb(255, 255, 255);
+}
+
+#P1 { border:solid 2px;
+width: 350px;
+
+}
+
+h1 {text-align: center;
+    color: rgb(255, 255, 255);
+    border:blanchedalmond solid 1px;
+  }
